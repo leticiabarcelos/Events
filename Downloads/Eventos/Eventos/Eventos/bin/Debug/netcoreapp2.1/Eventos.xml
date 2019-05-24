@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Eventos</name>
+    </assembly>
+    <members>
+        <member name="M:Eventos.Controllers.EventoController.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Eventos.Controllers.EventoController.Post(Eventos.Models.Evento)">
+            <summary>
+            
+            </summary>
+            <param name="evento"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Eventos.Controllers.EventoController.Put(Eventos.Models.Evento)">
+            <summary>
+            
+            </summary>
+            <param name="evento"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Eventos.Controllers.EventoController.Delete(Eventos.Models.Evento)">
+            <summary>
+            
+            </summary>
+            <param name="evento"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Eventos.Controllers.EventoController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Eventos.Controllers.EventoController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Eventos.Controllers.LoginController.Login(Eventos.Models.Usuario)">
+            <summary>
+            
+            </summary>
+            <param name="autenticacao"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,30 @@
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.csprojAssemblyReference.cache
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.csproj.CoreCompileInputs.cache
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorAssemblyInfo.cache
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorAssemblyInfo.cs
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.AssemblyInfoInputs.cache
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.AssemblyInfo.cs
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.deps.json
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.runtimeconfig.json
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.runtimeconfig.dev.json
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.dll
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorTargetAssemblyInfo.cache
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.xml
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.pdb
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.dll
+D:\Meus Documentos - FEPAM\Downloads\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.pdb
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.xml
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.deps.json
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.runtimeconfig.json
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.runtimeconfig.dev.json
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.dll
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\bin\Debug\netcoreapp2.1\Eventos.pdb
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.csprojAssemblyReference.cache
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorAssemblyInfo.cache
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorAssemblyInfo.cs
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.AssemblyInfoInputs.cache
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.AssemblyInfo.cs
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.RazorTargetAssemblyInfo.cache
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.dll
+C:\Users\letic\Downloads\Eventos\Eventos\Eventos\obj\Debug\netcoreapp2.1\Eventos.pdb
